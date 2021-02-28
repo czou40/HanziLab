@@ -1,0 +1,1 @@
+from .hanzi2phonetics import to_pinyin

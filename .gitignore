@@ -1,0 +1,14 @@
+Hanzi2Phonetics/.vscode
+Hanzi2Phonetics/misc
+*.pyc
+build
+dist
+MANIFEST
+.vscode
+train/cmn-pinyin/misc
+train/cmn-pinyin/result
+train/can-jyutping/result
+Phonetics2Hanzi/data
+train/cmn-pinyin/article
+train/can-jyutping/article
+train/model
